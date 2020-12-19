@@ -1,0 +1,24 @@
+{
+  "name": "dateween",
+  "version": "1.0.0",
+  "description": "Get the number of days (or seconds, minutes etc.) between two dates in JavaScript. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sametkoyuncu/dateween.git"
+  },
+  "keywords": [
+    "date",
+    "days",
+    "between"
+  ],
+  "author": "Samet Koyuncu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sametkoyuncu/dateween/issues"
+  },
+  "homepage": "https://github.com/sametkoyuncu/dateween#readme"
+}
