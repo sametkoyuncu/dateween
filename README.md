@@ -3,7 +3,7 @@ Get the number of days (or seconds, minutes etc.) between two dates in JavaScrip
 
 # Installation
 
-`npm -i dateween --save`
+`npm i dateween --save`
 
 # Usage
 
