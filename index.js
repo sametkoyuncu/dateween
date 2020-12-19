@@ -43,13 +43,15 @@ function getnanoseconds(date1, date2) {
     return (turntimestamp(date1)-turntimestamp(date2)) * (1000 * 1000)
 }
 
-module.exports.getyears = getyears;
-module.exports.getmonths = getmonths;
-module.exports.getweeks = getweeks;
-module.exports.getdays = getdays;
-module.exports.gethours = gethours;
-module.exports.getminutes = getminutes;
-module.exports.getseconds = getseconds;
-module.exports.getmilliseconds = getmilliseconds;
-module.exports.getmicroseconds = getmicroseconds;
-module.exports.getnanoseconds = getnanoseconds;
+module.exports = {
+    getyears, 
+    getmonths, 
+    getweeks, 
+    getdays, 
+    gethours,
+    getminutes,
+    getseconds,
+    getmilliseconds,
+    getmicroseconds,
+    getnanoseconds
+}
