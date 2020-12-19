@@ -1,6 +1,6 @@
 {
   "name": "dateween",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the number of days (or seconds, minutes etc.) between two dates in JavaScript. ",
   "main": "index.js",
   "scripts": {
