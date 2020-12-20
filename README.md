@@ -10,5 +10,18 @@ Get the number of days (or seconds, minutes etc.) between two dates in JavaScrip
 ```
 const dateween = require('dateween');
 
-console.log(dateween.getdays("2021-12-3", "2020-1-24"));
+console.log(dateween.getDays("2021-12-3", "2020-1-24"));
+```
+# All Functions
+```
+getYears
+getMonths //one month is 30 days
+getWeeks
+getDays
+getHours
+getMinutes
+getSeconds
+getMilliseconds
+getMicroseconds
+getNanoseconds
 ```
